@@ -1,1 +1,1 @@
-# pubg.github.io
+# pubg
